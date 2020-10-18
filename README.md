@@ -1,3 +1,3 @@
 ### Hi there, I'm Sefa 👋
 
-I am a polyglot software engineer currently in love with **Go**, **Pyhon**, **microservices**, **AWS** and **Swift**.
+I am a polyglot software engineer currently in love with **Go**, **Python**, **microservices**, **AWS** and **Swift**.
