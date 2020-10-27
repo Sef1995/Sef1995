@@ -1,3 +1,3 @@
 ### Hi there, I'm [Sefa](https://www.linkedin.com/in/sefasenturk/) 👋
 
-I am a polyglot software engineer currently in love with **Go**, **Python**, **microservices**, **AWS** and **Swift**.
+My general outlook in the ever evolving world of information technology is constantly looking to learn new techniques and languages that simplify the process of development. 
